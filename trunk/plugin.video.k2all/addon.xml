@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.k2all"
+  name="khmer2all Nalynn-0.1 by sopheak"
+  version="0.0.3"
+  provider-name="sopheak">
+  <requires>
+    <import addon="xbmc.python" version="2.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>khmer2all</summary>
+    <description>Khmer2all</description>
+  </extension>
+</addon>
