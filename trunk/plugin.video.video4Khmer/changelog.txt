@@ -1,0 +1,5 @@
+0.0.1 
+- Intial release
+
+0.0.2 - remove the dependency on youtube addon and created video groups that can be played as a playlist. 
+0.0.3 - player update
