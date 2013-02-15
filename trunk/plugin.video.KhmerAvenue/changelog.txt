@@ -1,2 +1,0 @@
-0.0.1 - Intial release
-0.0.2 - update 26-01-2013 site changed
