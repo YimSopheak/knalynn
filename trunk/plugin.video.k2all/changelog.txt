@@ -1,0 +1,3 @@
+0.0.1 - first release
+0.0.2 - categories update
+0.0.3 - vimeo addons update , search removed
