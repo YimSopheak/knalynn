@@ -1,0 +1,7 @@
+0.0.1 - first release
+0.0.2 - categories update
+0.0.3 - vimeo addons update , search removed
+0.0.4 - ascii error code update. line 416
+0.0.5 - youtube error fix.
+0.0.6 - category update. street magic
+0.0.7 - category update. rungvointeveda - Lbeng plors junjeing
