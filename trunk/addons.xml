@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.k2all"
+  name="khmer2all - by sopheak"
+  version="0.0.7"
+  provider-name="sopheak">
+  <requires>
+    <import addon="xbmc.python" version="2.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>khmer2all by sopheak</summary>
+    <description>Khmer2all by sopheak</description>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.KhmerAvenue"
+  version="0.0.6"
+  name="KAvenue by sopheak@gmail.com"
+  provider-name="sopheak">
+  <requires>
+        <import addon="xbmc.python" version="2.0"/>
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>KAvenue by sopheak@gmail.com</summary>
+    <description>Watch KAvenue Videos by sopheak</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.khmerlivetv"
+  version="0.0.1"
+  name="Klivetv - 2013 by sopheak im "
+  provider-name="sopheak">
+  <requires>
+        <import addon="xbmc.python" version="2.0"/>
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Khmer live TV by sopheak im</summary>
+    <description>Khmer live tv</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.KhmerPortal"
+  version="0.0.2"
+  name="KPortal"
+  provider-name="sopheak">
+  <requires>
+        <import addon="xbmc.python" version="2.0"/>
+		<import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>KPortal by sopheak</summary>
+    <description>Watch KPortal by sopheak</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.MovieKhmer"
+  version="0.0.4"
+  name="MKhmer"
+  provider-name="sopheak">
+  <requires>
+        <import addon="xbmc.python" version="2.0"/>
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>MKhmer by sopheak</summary>
+    <description>Watch MKhmer Videos by sopheak</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.video4Khmer"
+  version="0.0.4"
+  name="v4Khmer"
+  provider-name="sopheak">
+  <requires>
+        <import addon="xbmc.python" version="2.0"/>
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>v4Khmer by sopheak</summary>
+    <description>Watch v4Khmer Videos  by sopheak</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+</addons>
