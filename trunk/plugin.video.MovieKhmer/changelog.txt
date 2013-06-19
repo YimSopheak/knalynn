@@ -1,4 +1,0 @@
-0.0.4 - youtube plugin error fixed.
-0.0.3 - updated due to site changing
-0.0.2 - thai category update
-0.0.1 - Intial release
