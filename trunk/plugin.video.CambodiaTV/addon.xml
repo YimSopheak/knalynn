@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.CambodiaTV"
+  name="Cambodia TV- sopheak im"
+  version="0.0.1"
+  provider-name="sopheak">
+  <requires>
+    <import addon="xbmc.python" version="2.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Bring to you by sopheak im</summary>
+    <description>Plugin that allows you to watch stream TV live from Cambodia </description>
+  </extension>
+</addon>
