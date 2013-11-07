@@ -1,8 +1,0 @@
-0.0.1 - Intial release
-0.0.2 - remove the dependency on youtube addon and created video groups that can be played as a playlist. 
-0.0.3 - player update
-0.0.4 - youtube plugin error fixed.
-0.0.5 - fixed single file youtube not playing.
-0.0.6 - fixed single file youtube not playing. First movie not start!!
-0.0.7 - site change. analytics
-1.0.13 - script follow.!
