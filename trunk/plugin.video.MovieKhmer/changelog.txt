@@ -1,0 +1,10 @@
+1.0.14 - domain changed
+1.0.11 - domain changed
+1.0.8 - site temporary changed
+0.0.7 - anylistic update
+0.0.6 - fixed vimeo video
+0.0.5 - add vimeo video
+0.0.4 - youtube plugin error fixed.
+0.0.3 - updated due to site changing
+0.0.2 - thai category update
+0.0.1 - Intial release
