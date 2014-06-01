@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<!--suppress ALL -->
+<addon id="plugin.video.1channel" version="2.1.0" name="1Channel" provider-name="Bstrdsmkr">
+    <requires>
+        <import addon="xbmc.python" version="2.0"/>
+        <import addon="script.module.urlresolver" version="1.0.0"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+        <import addon="script.module.metahandler" version="1.0.0"/>
+        <import addon="script.module.myconnpy" version="0.3.2"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="startup">
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Browse 1channel.ch</summary>
+        <description>This addon is supported at [COLOR blue]www.XBMCHub.com[/COLOR], [COLOR white][B]NOT[/B][/COLOR]
+            [COLOR red]xbmc.org[/COLOR]. Play a wide selection of movies and TV shows from 1channel.ch
+        </description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon
+  id="plugin.video.2khmer.co.nz"
+  version="0.0.2"
+  name="- www.2khmer.co.nz 0.0.2 by sopheak@gmail.com -"
+  provider-name="sopheak">
+  <requires>
+        <import addon="xbmc.python" version="2.0"/>
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.urlresolver"  version="0.0.1"/>
+		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>www.khmer.co.nz</summary>
+    <description>Watch www.khmer.co.nz Videos</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.k2all"
+  name="khmer2all 0.0.8 HAPPY NEW YEAR - sopheak@gmail.com"
+  version="0.0.8"
+  provider-name="sopheak">
+  <requires>
+    <import addon="xbmc.python" version="2.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>khmer2all by sopheak</summary>
+    <description>Khmer2all by sopheak</description>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.khmer.co.nz"
+  version="1.0.14"
+  name="- www.khmer.co.nz 1.0.14"
+  provider-name="sopheak">
+  <requires>
+        <import addon="xbmc.python" version="2.0"/>
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.urlresolver"  version="0.0.1"/>
+		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>www.khmer.co.nz</summary>
+    <description>Watch www.khmer.co.nz Videos</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.KhmerAvenue"
+  version="1.0.19"
+  name="KAvenue 1.0.19 - HAPPY NEW YEAR sopheak@gmail.com"
+  provider-name="sopheak">
+  <requires>
+        <import addon="xbmc.python" version="2.0"/>
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>KAvenue by sopheak@gmail.com</summary>
+    <description>Watch KAvenue Videos by sopheak</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.khmerlivetv"
+  version="0.0.1"
+  name="Klivetv - 2013 by sopheak im "
+  provider-name="sopheak">
+  <requires>
+        <import addon="xbmc.python" version="2.0"/>
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Khmer live TV by sopheak im</summary>
+    <description>Khmer live tv</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.KhmerMedia"
+  version="0.0.3"
+  name="KhmerMedia - 0.0.3 HAPPY NEW YEAR - KHMERNZ.COM"
+  provider-name="sopheak">
+  <requires>
+        <import addon="xbmc.python" version="2.0"/>
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>KhmerMedia</summary>
+    <description>Watch Khmer LIVE Tv FROM cambodia</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.MovieKhmer"
+  version="1.0.18"
+  name="MKhmer 1.0.18"
+  provider-name="sopheak">
+  <requires>
+        <import addon="xbmc.python" version="2.0"/>
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>bring to you by khmernz.com</summary>
+    <description>Watch MKhmer Videos by sopheak</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.nz.ondemand"
+       version="0.0.1"
+       name="NZ OnDemand 0.0.1 sopheak@gmail.com"
+       provider-name="sopheak">
+  <requires>
+    <import addon="xbmc.python" version="2.0" />
+    <import addon="script.module.beautifulsoup" version="3.2.0" />
+    <import addon="script.module.pyamf" version="0.6.1" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">NZ OnDemand</summary>
+    <description lang="en">New Zealand TV3/FOUR, TVNZ, Prime News, ChoiceTV, Ziln and NZOnScreen OnDemand videos, along with Parliament TV and Shine live streams.</description>
+    <disclaimer lang="en">Some parts of this addon may not be legal in your country of residence - please check with your local laws.</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.video4Khmer"
+  version="1.0.18"
+  name="v4Khmer 1.0.18 - 2014 - sopheak@gmail.com"
+  provider-name="sopheak">
+  <requires>
+        <import addon="xbmc.python" version="2.0"/>
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>v4Khmer by sopheak</summary>
+    <description>Watch v4Khmer Videos  by sopheak</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.vimeo" name="Vimeo" provider-name="TheCollective" version="3.5.4">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.common.plugin.cache" version="2.5.2" />
+    <import addon="script.module.parsedom" version="2.5.1" />
+    <import addon="script.module.simple.downloader" version="1.9.4" />
+  </requires>
+  <extension library="default.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <language />
+    <summary lang="en">Vimeo video plugin</summary>
+    <description lang="en">Plugin that allows you to browse and view videos from everybodys favorite alternative video site!</description>
+    <summary lang="bg">Видео добавка за Vimeo</summary>
+    <description lang="bg">Добавката ви позволява да разглеждате и гледате видео клипове от любимия на всички алтернативен видео сайт!</description>
+    <broken>Plugin broken due to website changes.</broken>
+  </extension>
+</addon>
+</addons>
