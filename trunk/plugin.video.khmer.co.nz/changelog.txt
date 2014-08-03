@@ -1,5 +1,0 @@
-0.0.1 - Intial release
-0.0.2 - Phomekhmer Released!!
-1.0.6 - domain changed!
-1.0.8 - new changed!!
-1.0.14 - vimeo list new video

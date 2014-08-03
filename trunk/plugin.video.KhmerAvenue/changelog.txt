@@ -1,9 +1,0 @@
-0.0.1 - Intial release
-0.0.2 - update because of site change
-0.0.3 - cagetegories change and update
-0.0.4 - some changes to first movie unicode.!
-0.0.5 - youtube plugin error fixed.
-0.0.6 - billuploads fixed
-0.0.7 - missing next button
-0.0.8 - site changing..
-1.0.19 - YOUTUBE FIX
